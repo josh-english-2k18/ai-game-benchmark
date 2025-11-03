@@ -1,0 +1,8 @@
+[tool.ruff]
+line-length = 100
+select = ["E", "F", "I", "UP", "N"]
+ignore = []
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+addopts = "-q"

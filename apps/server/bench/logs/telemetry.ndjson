@@ -1,0 +1,69 @@
+{"backend": "cpu", "latency_ms": 879.2360830120742, "value": 0.0, "fanout": 7.0, "max_score": 5.0, "ts": 1762202841.015838}
+{"backend": "cpu", "latency_ms": 48.96670894231647, "value": 0.0, "fanout": 7.0, "max_score": 5.0, "ts": 1762202841.074755}
+{"backend": "cpu", "latency_ms": 53.00420895218849, "value": 0.0, "fanout": 7.0, "max_score": 5.0, "ts": 1762202867.773119}
+{"backend": "cpu", "latency_ms": 49.376207985915244, "value": 0.0, "fanout": 7.0, "max_score": 5.0, "ts": 1762202867.823751}
+{"backend": "cpu", "latency_ms": 56.42433394677937, "value": 0.0, "fanout": 7.0, "max_score": 5.0, "ts": 1762202918.304802}
+{"backend": "cpu", "latency_ms": 43.43137494288385, "value": 0.0, "fanout": 7.0, "max_score": 5.0, "ts": 1762202918.349866}
+{"backend": "cpu", "latency_ms": 55.42433401569724, "value": 0.0, "fanout": 7.0, "max_score": 5.0, "ts": 1762202975.4244869}
+{"backend": "cpu", "latency_ms": 42.07299998961389, "value": 0.0, "fanout": 7.0, "max_score": 5.0, "ts": 1762202975.467884}
+{"backend": "cpu", "latency_ms": 55.267542018555105, "value": 0.0, "fanout": 7.0, "max_score": 5.0, "ts": 1762203095.804755}
+{"backend": "cpu", "latency_ms": 46.221166965551674, "value": 0.0, "fanout": 7.0, "max_score": 5.0, "ts": 1762203095.852445}
+{"backend": "cpu", "latency_ms": 49.41012500785291, "value": 0.0, "fanout": 7.0, "max_score": 5.0, "ts": 1762203191.539083}
+{"backend": "cpu", "latency_ms": 43.16366696730256, "value": 0.0, "fanout": 7.0, "max_score": 5.0, "ts": 1762203191.582817}
+{"backend": "cpu", "latency_ms": 50.87029200512916, "value": 0.0, "fanout": 7.0, "max_score": 5.0, "ts": 1762203203.492185}
+{"backend": "cpu", "latency_ms": 53.557417006231844, "value": 0.0, "fanout": 7.0, "max_score": 8.0, "ts": 1762203203.56687}
+{"backend": "cpu", "latency_ms": 41.16829193662852, "value": 1.0, "fanout": 7.0, "max_score": 3.0, "ts": 1762203206.848431}
+{"backend": "cpu", "latency_ms": 55.30983302742243, "value": 0.0, "fanout": 7.0, "max_score": 7.0, "ts": 1762203206.922473}
+{"backend": "cpu", "latency_ms": 47.45520802680403, "value": 1.0, "fanout": 7.0, "max_score": 3.0, "ts": 1762203208.616678}
+{"backend": "cpu", "latency_ms": 53.906750050373375, "value": 0.0, "fanout": 7.0, "max_score": 6.0, "ts": 1762203208.688201}
+{"backend": "cpu", "latency_ms": 52.42616590112448, "value": 0.0, "fanout": 7.0, "max_score": 8.0, "ts": 1762203224.488636}
+{"backend": "cpu", "latency_ms": 54.09716605208814, "value": -1.0, "fanout": 7.0, "max_score": 100.0, "ts": 1762203224.559561}
+{"backend": "gpu", "latency_ms": 62.95620801392943, "value": 0.0, "fanout": 7.0, "max_score": 5.0, "gpu_warm": 0.0, "simulated_power_w": 70.36994822139728, "ts": 1762203241.961996}
+{"backend": "gpu", "latency_ms": 65.49508310854435, "value": 0.0, "fanout": 7.0, "max_score": 5.0, "gpu_warm": 1.0, "simulated_power_w": 70.783207249509, "ts": 1762203243.266449}
+{"backend": "gpu", "latency_ms": 62.37854203209281, "value": 0.0, "fanout": 7.0, "max_score": 8.0, "gpu_warm": 1.0, "simulated_power_w": 71.67580313908644, "ts": 1762203243.3474529}
+{"backend": "gpu", "latency_ms": 54.1731669800356, "value": 1.0, "fanout": 7.0, "max_score": 3.0, "gpu_warm": 1.0, "simulated_power_w": 74.30764049769546, "ts": 1762203245.630929}
+{"backend": "gpu", "latency_ms": 64.92774991784245, "value": 0.0, "fanout": 7.0, "max_score": 7.0, "gpu_warm": 1.0, "simulated_power_w": 70.76032337409288, "ts": 1762203245.7111712}
+{"backend": "gpu", "latency_ms": 53.94316709134728, "value": 1.0, "fanout": 7.0, "max_score": 3.0, "gpu_warm": 1.0, "simulated_power_w": 70.69501898998834, "ts": 1762203246.990525}
+{"backend": "gpu", "latency_ms": 59.87262504640967, "value": 0.0, "fanout": 7.0, "max_score": 6.0, "gpu_warm": 1.0, "simulated_power_w": 70.62472532352298, "ts": 1762203247.0637949}
+{"backend": "gpu", "latency_ms": 69.0626660361886, "value": 1.0, "fanout": 7.0, "max_score": 6.0, "gpu_warm": 1.0, "simulated_power_w": 72.38569161999128, "ts": 1762203250.054593}
+{"backend": "gpu", "latency_ms": 61.855249921791255, "value": -1.0, "fanout": 7.0, "max_score": 0.0, "gpu_warm": 1.0, "simulated_power_w": 70.42551785652404, "ts": 1762203250.1292212}
+{"backend": "gpu", "latency_ms": 56.756666977889836, "value": -1.0, "fanout": 7.0, "max_score": 10.0, "gpu_warm": 1.0, "simulated_power_w": 74.53992357598868, "ts": 1762203252.354648}
+{"backend": "gpu", "latency_ms": 67.83887511119246, "value": -1.0, "fanout": 7.0, "max_score": -2.0, "gpu_warm": 1.0, "simulated_power_w": 70.73375200120356, "ts": 1762203252.4393768}
+{"backend": "gpu", "latency_ms": 59.292125049978495, "value": -1.0, "fanout": 7.0, "max_score": 8.0, "gpu_warm": 1.0, "simulated_power_w": 72.93569070522696, "ts": 1762203253.5900211}
+{"backend": "gpu", "latency_ms": 60.06695807445794, "value": -1.0, "fanout": 7.0, "max_score": 0.0, "gpu_warm": 1.0, "simulated_power_w": 73.25533028315374, "ts": 1762203253.663031}
+{"backend": "gpu", "latency_ms": 64.06041700392962, "value": 1.0, "fanout": 7.0, "max_score": 4.0, "gpu_warm": 1.0, "simulated_power_w": 71.59748637804749, "ts": 1762203257.439178}
+{"backend": "gpu", "latency_ms": 67.61008407920599, "value": -1.0, "fanout": 7.0, "max_score": -1.0, "gpu_warm": 1.0, "simulated_power_w": 70.31668620227391, "ts": 1762203257.523658}
+{"backend": "gpu", "latency_ms": 59.82358299661428, "value": 0.0, "fanout": 7.0, "max_score": 4.0, "gpu_warm": 1.0, "simulated_power_w": 74.26916454714781, "ts": 1762203261.4090009}
+{"backend": "gpu", "latency_ms": 61.59762491006404, "value": -1.0, "fanout": 7.0, "max_score": -2.0, "gpu_warm": 1.0, "simulated_power_w": 71.14049277789272, "ts": 1762203261.49014}
+{"backend": "gpu", "latency_ms": 61.91558297723532, "value": 0.0, "fanout": 7.0, "max_score": 1.0, "gpu_warm": 1.0, "simulated_power_w": 70.48613804996148, "ts": 1762203264.221502}
+{"backend": "gpu", "latency_ms": 58.722417103126645, "value": -1.0, "fanout": 7.0, "max_score": -2.0, "gpu_warm": 1.0, "simulated_power_w": 74.68633050545, "ts": 1762203264.29493}
+{"backend": "gpu", "latency_ms": 63.54687502607703, "value": -1.0, "fanout": 7.0, "max_score": 5.0, "gpu_warm": 1.0, "simulated_power_w": 71.32560519203938, "ts": 1762203265.8852181}
+{"backend": "gpu", "latency_ms": 56.04783305898309, "value": -1.0, "fanout": 7.0, "max_score": 2.0, "gpu_warm": 1.0, "simulated_power_w": 72.45974240734158, "ts": 1762203265.957224}
+{"backend": "gpu", "latency_ms": 65.50262495875359, "value": 1.0, "fanout": 7.0, "max_score": -2.0, "gpu_warm": 1.0, "simulated_power_w": 74.72245506111383, "ts": 1762203268.4423559}
+{"backend": "gpu", "latency_ms": 56.69420899357647, "value": -1.0, "fanout": 7.0, "max_score": 100.0, "gpu_warm": 1.0, "simulated_power_w": 71.64570426621536, "ts": 1762203268.5147882}
+{"backend": "gpu", "latency_ms": 65.241583972238, "value": 1.0, "fanout": 7.0, "max_score": 1.0, "gpu_warm": 1.0, "simulated_power_w": 71.13701696770636, "ts": 1762203282.136111}
+{"backend": "gpu", "latency_ms": 65.87958300951868, "value": -1.0, "fanout": 7.0, "max_score": -3.0, "gpu_warm": 1.0, "simulated_power_w": 70.08479901295489, "ts": 1762203282.219792}
+{"backend": "gpu", "latency_ms": 52.624500007368624, "value": -1.0, "fanout": 6.0, "max_score": 5.0, "gpu_warm": 1.0, "simulated_power_w": 74.79930449298712, "ts": 1762203283.6320078}
+{"backend": "gpu", "latency_ms": 60.15383300837129, "value": -1.0, "fanout": 5.0, "max_score": -3.0, "gpu_warm": 1.0, "simulated_power_w": 73.37091887672483, "ts": 1762203283.7105541}
+{"backend": "gpu", "latency_ms": 60.06883305963129, "value": -1.0, "fanout": 5.0, "max_score": 6.0, "gpu_warm": 1.0, "simulated_power_w": 70.9026533935129, "ts": 1762203285.8889751}
+{"backend": "gpu", "latency_ms": 59.66454197186977, "value": -1.0, "fanout": 5.0, "max_score": -6.0, "gpu_warm": 1.0, "simulated_power_w": 71.25356891850414, "ts": 1762203285.9640582}
+{"backend": "gpu", "latency_ms": 59.39566600136459, "value": -1.0, "fanout": 5.0, "max_score": 7.0, "gpu_warm": 1.0, "simulated_power_w": 74.95423461322757, "ts": 1762203289.1302028}
+{"backend": "gpu", "latency_ms": 54.89858298096806, "value": -1.0, "fanout": 5.0, "max_score": -10.0, "gpu_warm": 1.0, "simulated_power_w": 71.45947691683622, "ts": 1762203289.201955}
+{"backend": "gpu", "latency_ms": 64.73254202865064, "value": -1.0, "fanout": 5.0, "max_score": 9.0, "gpu_warm": 1.0, "simulated_power_w": 73.06888806283114, "ts": 1762203297.757699}
+{"backend": "gpu", "latency_ms": 57.17916693538427, "value": -1.0, "fanout": 5.0, "max_score": -13.0, "gpu_warm": 1.0, "simulated_power_w": 74.90178994361325, "ts": 1762203297.8293939}
+{"backend": "gpu", "latency_ms": 56.641582981683314, "value": -1.0, "fanout": 5.0, "max_score": 8.0, "gpu_warm": 1.0, "simulated_power_w": 70.08003257489739, "ts": 1762203299.48629}
+{"backend": "gpu", "latency_ms": 62.03462497796863, "value": -1.0, "fanout": 4.0, "max_score": -12.0, "gpu_warm": 1.0, "simulated_power_w": 73.88917662401217, "ts": 1762203299.565021}
+{"backend": "gpu", "latency_ms": 65.93270797748119, "value": -1.0, "fanout": 4.0, "max_score": 6.0, "gpu_warm": 1.0, "simulated_power_w": 74.1870064536296, "ts": 1762203307.132649}
+{"backend": "gpu", "latency_ms": 61.46508303936571, "value": -1.0, "fanout": 3.0, "max_score": -11.0, "gpu_warm": 1.0, "simulated_power_w": 70.62715944846315, "ts": 1762203307.211765}
+{"backend": "gpu", "latency_ms": 59.773209039121866, "value": -1.0, "fanout": 3.0, "max_score": 6.0, "gpu_warm": 1.0, "simulated_power_w": 71.71034948318243, "ts": 1762203308.488559}
+{"backend": "gpu", "latency_ms": 66.34949997533113, "value": -1.0, "fanout": 3.0, "max_score": -2.0, "gpu_warm": 1.0, "simulated_power_w": 74.0180853739833, "ts": 1762203308.569788}
+{"backend": "gpu", "latency_ms": 59.09420794341713, "value": -1.0, "fanout": 3.0, "max_score": 5.0, "gpu_warm": 1.0, "simulated_power_w": 73.70086997225336, "ts": 1762203311.8098922}
+{"backend": "gpu", "latency_ms": 62.09670891985297, "value": -1.0, "fanout": 2.0, "max_score": 1.0, "gpu_warm": 1.0, "simulated_power_w": 71.17445665474057, "ts": 1762203311.887861}
+{"backend": "gpu", "latency_ms": 55.022999993525445, "value": -1.0, "fanout": 1.0, "max_score": 2.0, "gpu_warm": 1.0, "simulated_power_w": 71.69288757596377, "ts": 1762203313.714835}
+{"backend": "tpu", "latency_ms": 59.85033302567899, "value": 0.0, "fanout": 7.0, "max_score": 5.0, "batched": 1.0, "simulated_power_w": 46.46521581546738, "ts": 1762203319.831224}
+{"backend": "tpu", "latency_ms": 76.17824990302324, "value": 0.0, "fanout": 7.0, "max_score": 5.0, "batched": 1.0, "simulated_power_w": 42.76637945217945, "ts": 1762203320.921679}
+{"backend": "tpu", "latency_ms": 70.06883295252919, "value": 0.0, "fanout": 7.0, "max_score": 8.0, "batched": 1.0, "simulated_power_w": 45.89522477388814, "ts": 1762203321.005811}
+{"backend": "tpu", "latency_ms": 70.23845799267292, "value": 1.0, "fanout": 7.0, "max_score": 3.0, "batched": 1.0, "simulated_power_w": 42.72409442530753, "ts": 1762203323.091867}
+{"backend": "tpu", "latency_ms": 71.64325006306171, "value": 0.0, "fanout": 7.0, "max_score": 7.0, "batched": 1.0, "simulated_power_w": 43.17122210160726, "ts": 1762203323.1747031}
+{"backend": "tpu", "latency_ms": 70.72420790791512, "value": 1.0, "fanout": 7.0, "max_score": 3.0, "batched": 1.0, "simulated_power_w": 45.384958628982545, "ts": 1762203324.2826712}
+{"backend": "tpu", "latency_ms": 64.46208292618394, "value": 0.0, "fanout": 7.0, "max_score": 6.0, "batched": 1.0, "simulated_power_w": 48.24399360079648, "ts": 1762203324.364172}

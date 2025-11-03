@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+node_modules/
+dist/
+.vscode/
+.DS_Store
+apps/server/.venv/
+bench/logs/*.csv
+bench/logs/*.html
+bench/logs/*.ndjson

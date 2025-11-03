@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: theme("fontFamily.body");
+  background: radial-gradient(circle at 20% -20%, rgba(59, 130, 246, 0.15), transparent 55%),
+    radial-gradient(circle at 80% 0%, rgba(16, 185, 129, 0.12), transparent 45%),
+    theme("colors.board-dark");
+  min-height: 100vh;
+}
